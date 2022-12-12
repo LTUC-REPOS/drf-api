@@ -26,6 +26,7 @@
 
 > Django <br>
 
+> Django Rest Framework <br>
 
 
 
@@ -54,7 +55,7 @@
 
 > `python manage.py test` <br>
 
-> `/snacks/tests.py`
+> `/drf/tests.py`
 
 
 <br>
